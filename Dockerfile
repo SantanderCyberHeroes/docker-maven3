@@ -1,4 +1,4 @@
-FROM maven:3.3-jdk-8
+FROM maven:3.4-jdk-8
 
 LABEL maintainer="javier.boo@aiwin.es"
 
